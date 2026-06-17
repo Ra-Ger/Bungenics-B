@@ -36,3 +36,6 @@ out/
 ### VS Code ###
 .vscode/
 /DataBaseConsole.sql
+application-vulnerableData.properties
+application-local.properties
+allCode.txt
